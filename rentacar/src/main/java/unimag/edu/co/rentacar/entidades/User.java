@@ -1,4 +1,4 @@
-package unimag.edu.co.rentacar;
+package unimag.edu.co.rentacar.entidades;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
